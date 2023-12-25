@@ -1,2 +1,1 @@
-# newrep1
-Opicanie
+# cpp-console-library-subscription
